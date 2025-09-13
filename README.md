@@ -29,7 +29,7 @@ This gave me a quick look at the basics for each column:
 3. **PivotTables + BMI Bins**  
    - Built PivotTables for quick exploration.  
    - Added weight class bins for BMI (Normal, Overweight, Obese).  
-   ![Pivot]([images/step3_pivot_bmi.png](https://github.com/hadishokri11/ExcelProject/blob/main/3rd%20Pivot.PNG?raw=true))  
+   ![Pivot](https://github.com/hadishokri11/ExcelProject/blob/main/3rd%20Pivot.PNG?raw=true)  
 
 ## 📊 PivotTable Fun
 
