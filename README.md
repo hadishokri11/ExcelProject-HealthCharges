@@ -13,11 +13,12 @@ I like keeping things clean and step-by-step, so here’s what I did:
 
 2. **Convert data to Excel Tables + Power Query**  
    - Changed data types properly (numbers, text, categories).  
-   - Ran **descriptive stats** with ToolPak to get a quick summary.  
-   ![Descriptive Stats](https://github.com/hadishokri11/ExcelProject/blob/main/2nd%20Clean%20&%20Prep%20the%20Data.PNG?raw=true)
+   - Ran **descriptive stats** with ToolPak to get a quick summary 👇  
+
 
 ## 🔍 Descriptive Analysis (Excel ToolPak)
-
+   ![Descriptive Stats](https://github.com/hadishokri11/ExcelProject/blob/main/2nd%20Clean%20&%20Prep%20the%20Data.PNG?raw=true)
+   
 Before diving into pivots and regressions, I ran a **descriptive stats report** using Excel’s ToolPak.  
 This gave me a quick look at the basics for each column:
 
@@ -29,9 +30,10 @@ This gave me a quick look at the basics for each column:
 3. **PivotTables + BMI Bins**  
    - Built PivotTables for quick exploration.  
    - Added weight class bins for BMI (Normal, Overweight, Obese).  
-   ![Pivot](https://github.com/hadishokri11/ExcelProject/blob/main/3rd%20Pivot.PNG?raw=true)  
+
 
 ## 📊 PivotTable Fun
+   ![Pivot](https://github.com/hadishokri11/ExcelProject/blob/main/3rd%20Pivot.PNG?raw=true)  
 
 Some quick findings from the pivots:
 
