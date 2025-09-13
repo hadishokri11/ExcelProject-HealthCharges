@@ -9,12 +9,12 @@ I like keeping things clean and step-by-step, so here’s what I did:
 
 1. **Duplicate the data sheet**  
    - Always keep a safe copy of the original dataset before making any changes.  
-   [Create Duplicate](https://github.com/hadishokri11/ExcelProject/blob/main/1st%20Duplicate%20data.png?raw=true))  
+   [Create Duplicate](https://github.com/hadishokri11/ExcelProject/blob/main/1st%20Duplicate%20data.png?raw=true)  
 
 2. **Convert data to Excel Tables + Power Query**  
    - Changed data types properly (numbers, text, categories).  
    - Ran **descriptive stats** with ToolPak to get a quick summary.  
-   [Descriptive Stats](images/step2_toolpak.png)  
+   [Descriptive Stats](https://github.com/hadishokri11/ExcelProject/blob/main/2nd%20Clean%20&%20Prep%20the%20Data.PNG?raw=true)  
 
 3. **PivotTables + BMI Bins**  
    - Built PivotTables for quick exploration.  
