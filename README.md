@@ -45,3 +45,27 @@ Some quick findings from the pivots:
 
 Cool thing about PivotTables is how easy it is to mix categories — like seeing charges for *smokers + BMI groups* together. That’s where you see obese smokers shooting the costs through the roof 🚀.  
 
+4. **Correlation Matrix + Scatter Plots**
+   - Ran a correlation matrix using Excel’s ToolPak.
+   - Verified relationships with scatter plots (charges vs age, BMI, smoker status).
+     
+##🔗 Correlation Analysis (Excel Scatter plot & ToolPak)
+![Correlation]
+
+I also ran a correlation matrix using Excel’s ToolPak to see which factors are most related to charges:
+
+- Smoker vs Charges → 0.79 💥 strongest relationship by far. Being a smoker massively drives up costs.
+- Age vs Charges → 0.30 → moderate link, older people tend to pay more.
+- BMI vs Charges → 0.20 → weak, but noticeable. Higher BMI means slightly higher charges.
+- Children vs Charges → 0.07 → almost no effect.
+
+So smoking is the big one 🚬🔥, followed by age, then BMI. Kids and region don’t really matter much here.
+
+To double-check, I also added scatter plots (e.g., charges vs age, charges vs BMI) — the patterns matched the correlations:
+
+- Clear upward trend for age vs charges.
+- Smokers vs non-smokers split into two very different cost clusters.
+- BMI vs charges shows a weak upward spread with some outliers.
+
+
+
