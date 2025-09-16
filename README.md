@@ -7,11 +7,11 @@ Data analysis projects using Excel – starting with the Kaggle Medical Insuranc
 
 I like keeping things clean and step-by-step, so here’s what I did:
 
-1. **Duplicate the data sheet**  
+### 1. **Duplicate the data sheet**  
    - Always keep a safe copy of the original dataset before making any changes.  
    ![Create Duplicate](https://github.com/hadishokri11/ExcelProject/blob/main/1st%20Duplicate%20data.png?raw=true)
 
-2. **Convert data to Excel Tables + Power Query**  
+### 2. **Convert data to Excel Tables + Power Query**  
    - Changed data types properly (numbers, text, categories).  
    - Ran **descriptive stats** with ToolPak to get a quick summary 👇  
 
@@ -27,7 +27,7 @@ This gave me a quick look at the basics for each column:
 - **Children** → Most people had 0–2 kids.  
 - **Charges** → Very skewed! A few people had insanely high medical costs.  
 
-3. **PivotTables + BMI Bins**  
+### 3. **PivotTables + BMI Bins**  
    - Built PivotTables for quick exploration.  
    - Added weight class bins for BMI (Normal, Overweight, Obese).  
 
@@ -45,7 +45,7 @@ Some quick findings from the pivots:
 
 Cool thing about PivotTables is how easy it is to mix categories — like seeing charges for *smokers + BMI groups* together. That’s where you see obese smokers shooting the costs through the roof 🚀.  
 
-4. **Correlation Matrix + Scatter Plots**
+### 4. **Correlation Matrix + Scatter Plots**
    - Ran a correlation matrix using Excel’s ToolPak.
    - Verified relationships with scatter plots (charges vs age, BMI, smoker status).
      
@@ -68,7 +68,7 @@ To double-check, I also added scatter plots (e.g., charges vs age, charges vs BM
 - BMI vs charges shows a weak upward spread with some outliers.
 
   
-5. **Linear Regression (Excel ToolPak)**  
+### 5. **Linear Regression (Excel ToolPak)**  
    - Ran a multiple regression with **Age, Smoker, BMI, and Children** as predictors.  
    - Checked coefficients, significance (p-values), and confidence intervals.  
    - Added scatter plots of **predicted vs. actual charges** to visually confirm the model fit.  
