@@ -50,7 +50,7 @@ Cool thing about PivotTables is how easy it is to mix categories — like seeing
    - Verified relationships with scatter plots (charges vs age, BMI, smoker status).
      
 ##🔗 Correlation Analysis (Excel Scatter plot & ToolPak)
-![Correlation](https://github.com/hadishokri11/ExcelProject-HealthCharges/blob/main/4th%20Corelation.PNG?raw=true)
+![Correlation](https://github.com/hadishokri11/ExcelProject-HealthCharges/blob/main/4th%20Corelation%20&%20Scatter%20Plot.PNG?raw=true)
 
 I also ran a correlation matrix using Excel’s ToolPak to see which factors are most related to charges:
 
