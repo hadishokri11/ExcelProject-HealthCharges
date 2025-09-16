@@ -67,5 +67,22 @@ To double-check, I also added scatter plots (e.g., charges vs age, charges vs BM
 - Smokers vs non-smokers split into two very different cost clusters.
 - BMI vs charges shows a weak upward spread with some outliers.
 
+  
+5. **Linear Regression (Excel ToolPak)**  
+   - Ran a multiple regression with **Age, Smoker, BMI, and Children** as predictors.  
+   - Checked coefficients, significance (p-values), and confidence intervals.  
+   - Added scatter plots of **predicted vs. actual charges** to visually confirm the model fit.  
+
+## 📈 Regression Insights  
+   ![Regression Scatter]()  
+
+Main findings from the model:  
+- 🎂 **Age (+258 per year)** → Older = steadily higher charges.  
+- 🚬 **Smoker (+23,811)** → Smoking status completely dominates the model (massive jump in costs).  
+- 🏋️ **BMI (+322 per unit)** → Strong upward effect, especially at obese levels.  
+- 👶 **Children (+474 per child)** → Small but statistically significant bump — probably due to family insurance adjustments, not direct medical costs.  
+
+📊 **Takeaway**: Smoking drives charges more than anything else, while age and BMI also play big roles. Children only add a minor increase.  
+
 
 
