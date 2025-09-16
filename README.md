@@ -74,7 +74,7 @@ To double-check, I also added scatter plots (e.g., charges vs age, charges vs BM
    - Added scatter plots of **predicted vs. actual charges** to visually confirm the model fit.  
 
 ## 📈 Regression Insights  
-   ![Regression Scatter]()  
+   ![Regression Scatter](https://github.com/hadishokri11/ExcelProject-HealthCharges/blob/main/5th%20Regression%20Scatter.PNG?raw=true)  
 
 Main findings from the model:  
 - 🎂 **Age (+258 per year)** → Older = steadily higher charges.  
