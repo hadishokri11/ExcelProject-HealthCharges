@@ -110,3 +110,8 @@ Charges = -12102.77
 
 - Dashboard Screenshot:  
      ![Dashboard](https://github.com/hadishokri11/ExcelProject-HealthCharges/blob/main/6th%20Dashboard.PNG?raw=true)
+
+### 📥 Download the Excel File  
+You can try the dashboard and calculator yourself by downloading the Excel file here:  
+➡️ [HealthChargesDashboard.xlsx]()
+
