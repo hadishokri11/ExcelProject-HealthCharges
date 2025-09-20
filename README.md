@@ -84,5 +84,29 @@ Main findings from the model:
 
 📊 **Takeaway**: Smoking drives charges more than anything else, while age and BMI also play big roles. Children only add a minor increase.  
 
+## 6. **Dashboard & Estimator Calculator**  
+   - Built an **interactive Excel dashboard** to summarize and explore key findings.  
+   - Added a **Medical Charges Estimator** (calculator) using regression coefficients.  
 
+### 📊 Dashboard Features  
+   - 🚬 **Smoker vs Non-Smoker Comparison** (bar chart with gender split)  
+   - 🏋️ **Average Charges by BMI Class** (Normal, Overweight, Obese)  
+   - 🎂 **Charges Across Age Groups** (line chart)  
+   - 👨‍👩‍👧 **Children & Region Breakdown**  
+   - 🎛 Interactive **slicers** for filtering (Gender, Smoker, Region)  
 
+👉 Makes insights **instantly visible** without digging into raw data.  
+
+### 🧮 Estimator Calculator  
+   - Input fields: **Age, Smoker (0/1), BMI, Children**  
+   - Returns a **predicted insurance charge** using the regression formula.  
+
+**Formula:**  
+Charges = -12102.77
++ (257.85 × Age)
++ (23811.40 × Smoker)
++ (321.85 × BMI)
++ (473.50 × Children)
+
+- Dashboard Screenshot:  
+     ![Dashboard]
