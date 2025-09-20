@@ -109,4 +109,4 @@ Charges = -12102.77
 + (473.50 × Children)
 
 - Dashboard Screenshot:  
-     ![Dashboard]
+     ![Dashboard](https://github.com/hadishokri11/ExcelProject-HealthCharges/blob/main/6th%20Dashboard.PNG?raw=true)
